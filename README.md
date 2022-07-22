@@ -1,4 +1,4 @@
-- hi, I'm @mohadek
-- I'm interested in coding
-- I'm learning to code
-- I'm looking to collaborate on code
+-- hi, I'm @mohadek
+-- I'm interested in coding
+-- I'm learning to code
+-- I'm looking to collaborate on code
